@@ -4,7 +4,7 @@ sudo: false
 cache:
   bundler: true
 
-script: 'ci.rb'
+script: './ci.rb'
 
 rvm:
   - 2.4.2
