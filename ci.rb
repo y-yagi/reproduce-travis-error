@@ -1,3 +1,6 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
 begin
   pid = spawn("bundle exec puma -p 4567", pgroup: true)
 
