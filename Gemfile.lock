@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    puma (3.11.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  puma
+
+BUNDLED WITH
+   1.16.1
